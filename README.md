@@ -6,4 +6,5 @@ The Program is coded using FXML and not Scene Builder
 
 reference: https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm
 
-<img FXMLWelcomePic1.png/>
+![Test]("FXMLWelcomePic1.png")
+![Test2](/FXMLWelcomePic2.png)
