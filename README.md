@@ -6,3 +6,4 @@ The Program is coded using FXML and not Scene Builder
 
 reference: https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm
 
+<img FXMLExamplePic1.png/>
